@@ -32,6 +32,8 @@ Será avaliado seu conhecimento de javaScript, o uso de bibliotecas de css é de
 
 [Documentação da API](http://api-navetest.herokuapp.com/public)
 
+[Link do Postman](https://www.getpostman.com/collections/2441b936c6e660c24162)
+
 Url da api: `http://api-navetest.herokuapp.com/v1`
 
 ### Entrega
