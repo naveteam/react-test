@@ -25,9 +25,9 @@ Densenvolver um manager para gerenciamento de campeonatos de tênis de mesa
 
 Será avaliado seu conhecimento de javaScript, o uso de bibliotecas de css é de livre escolha.
 
-[Documentação da API](https://caiopsilva.github.io/)
+[Documentação da API](http://api-navetest.herokuapp.com/public)
 
-Url da api: `http://nave-test-api.herokuapp.com/api`
+Url da api: `http://api-navetest.herokuapp.com/v1`
 
 ### Entrega
 
