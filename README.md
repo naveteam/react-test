@@ -18,7 +18,7 @@ Desenvolver uma webapp para gerenciamento de campeonatos de tênis de mesa
 1. Cadastro de usuários
 2. CRUD de campeonatos
 3. Ao criar um campeonato, o usuário escolhe os jogadores para esse campeonato e da início ao campeonato, fazendo com que este campeonato não possa ser excluído e nem modificado. Quando um campeonato é iniciado, o backend gera automaticamente todas as partidas.
-4. Fazer uma tela para mostrar o campeonato que for selecionado na lista mostrando as partidas que serão geradas na `api`
+4. Fazer uma tela para mostrar o campeonato que for selecionado na lista mostrando as partidas que serão geradas pela `api`
 5. Fazer uma tela para fazer o update dos resultados de uma partida
 6. Listagem de jogadores do campeonato mostrar ordenado por ranking
 
